@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "delphi-hexalinks-client-side-solution",
+    "id": "40454f15-4218-4f7c-ace9-ef05777a8077",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "delphi-hexalinks description"
+      },
+      "longDescription": {
+        "default": "delphi-hexalinks description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "delphi-hexalinks Feature",
+        "description": "The feature that activates elements of the delphi-hexalinks solution.",
+        "id": "88e198d9-66bf-4431-bb5e-112a90ab742d",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/delphi-hexalinks.sppkg"
+  }
+}
